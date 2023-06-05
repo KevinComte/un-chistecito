@@ -1,0 +1,11 @@
+/* html{
+    background-color: rgb(241 245 249);
+    width: 100%;
+    height: 100%;
+} */
+
+#root{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
